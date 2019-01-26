@@ -17,7 +17,7 @@ if (isset($partyName)) {
 }
 
 if ($conn->query($sql) === TRUE) {
-    header("Location:http://localhost/test/voting_portal/?message='Voting is done. Next Please!!'");
+    header("Location:http://localhost/test/nw/voting_portal/?message='Voting is done. Next Please!!'");
 } else {
     echo "Error updating record: " . $conn->error;
 }
