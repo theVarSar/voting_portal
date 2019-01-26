@@ -24,7 +24,7 @@
 	<form method="post" action="vote.php">
     <div class="col-lg-3">
     	<div class="well well-lg">
-    		<img src="bjp.png" width="80" height="80">
+    		<img src="img/bjp.png" width="80" height="80">
     		<h4>BHARTIYA JANTA <br>PARTY</h4>
     		<p>Amit Shah</p> 
     		<button name="1" type="submit" class="btn btn-primary">VOTE</button>
@@ -32,7 +32,7 @@
     </div>
     <div class="col-lg-3">
         <div class="well well-lg">
-    	    <img src="cong.png" width="85" height="85">
+    	    <img src="img/cong.png" width="85" height="85">
     		<h4>INDIAN NATIONAL CONGRESS</h4>
     		<p>Rahul Gandhi</p>
     		<button name="2" type="submit" class="btn btn-primary">VOTE</button>
@@ -40,7 +40,7 @@
     </div>
     <div class="col-lg-3">
     	<div class="well well-lg">
-    		<img src="aap.png" width="80" height="65">
+    		<img src="img/aap.png" width="80" height="65">
     		<h4><br>AAM AADMI <br>PARTY</h4>
     		<p>Arvind Kejriwal</p>
     		<button name="3" type="submit" class="btn btn-primary">VOTE</button>
@@ -48,7 +48,7 @@
     </div>
     <div class="col-lg-3">
     	<div class="well well-lg">
-    		<img src="bsp.png" width="80" height="80">
+    		<img src="img/bsp.png" width="80" height="80">
     		<h4>BAHUJAN SAMAJ <br>PARTY</h4>   		
     		<p>Mayawati</p>
     		<button name="4" type="submit" class="btn btn-primary">VOTE</button>
